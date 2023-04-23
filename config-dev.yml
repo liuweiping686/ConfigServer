@@ -1,2 +1,2 @@
-config: 
-  info: "master branch,ConfigServer/config-dev.yml version"
+config:   
+  info: "master branch,ConfigServer/config-dev.yml version=1"
